@@ -1,0 +1,5 @@
+.vscode
+.env
+venv/
+app/coqui_utils/
+app/whisper.cpp/
